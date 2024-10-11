@@ -1,0 +1,9 @@
+Category			Tokens
+Keywords			int, int, return, int, main, int, int, int, cout, endl, return
+Identifiers			calculate_sum, a, b, a, b, num1, num2, result, calculate_sum, num1, num2, result
+Separators			(, ,, ), {, ;, }, (, ), {, ;, ;, (, ,, ), ;, ;, ;, }
+Operators			+, =, =, =, <<, <<, <<
+Literals			10, 20, Sum: , 0
+Comments			// Function to calculate the sum of two integers,     // This function calculates the sum of two numbers, // Main function,     // Calculate the sum,     // Print the result
+
+Total number of tokens: 52
